@@ -13,5 +13,5 @@ Just change the downloaded __.conf__ file name to __hyprland.conf__ and place it
 __"~/.config/hypr"__
 
 ### EXAMPLE ###
-hyprland-conf-1.conf --> hyprland.conf
-hyprland-conf-2.conf --> hyprland.conf
+- hyprland-conf-1.conf --> hyprland.conf
+- hyprland-conf-2.conf --> hyprland.conf
