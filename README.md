@@ -4,8 +4,8 @@ Pre-configured Hyprland Configs.
 To install hyprland:
 - FEDORA -- sudo dnf install hyprland
 - ARCH BASED --|
-    From AUR -- yay -S hyprland-git
-    Bin x86 -- sudo pacman -S hyprland
+   - From AUR -- yay -S hyprland-git
+   - Bin x86 -- sudo pacman -S hyprland
 - OpenSUSE -- sudo zypper in hyprland
 
 ## How To Install Them ##
